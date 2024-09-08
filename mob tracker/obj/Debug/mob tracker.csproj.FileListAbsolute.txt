@@ -1,0 +1,10 @@
+C:\Users\Sapto\source\repos\mob tracker\mob tracker\bin\Debug\mob tracker.exe.config
+C:\Users\Sapto\source\repos\mob tracker\mob tracker\bin\Debug\mob tracker.exe
+C:\Users\Sapto\source\repos\mob tracker\mob tracker\bin\Debug\mob tracker.pdb
+C:\Users\Sapto\source\repos\mob tracker\mob tracker\obj\Debug\mob tracker.csprojAssemblyReference.cache
+C:\Users\Sapto\source\repos\mob tracker\mob tracker\obj\Debug\mob_tracker.Form1.resources
+C:\Users\Sapto\source\repos\mob tracker\mob tracker\obj\Debug\mob_tracker.Properties.Resources.resources
+C:\Users\Sapto\source\repos\mob tracker\mob tracker\obj\Debug\mob tracker.csproj.GenerateResource.cache
+C:\Users\Sapto\source\repos\mob tracker\mob tracker\obj\Debug\mob tracker.csproj.CoreCompileInputs.cache
+C:\Users\Sapto\source\repos\mob tracker\mob tracker\obj\Debug\mob tracker.exe
+C:\Users\Sapto\source\repos\mob tracker\mob tracker\obj\Debug\mob tracker.pdb
